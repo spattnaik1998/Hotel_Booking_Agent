@@ -1,0 +1,25 @@
+# Core dependencies
+flask
+flask-cors
+python-dotenv
+
+# CrewAI and AI dependencies
+crewai
+crewai-tools
+langchain
+langchain-openai
+langchain-community
+
+# Production server
+gunicorn
+waitress
+
+# Development dependencies
+pytest
+pytest-flask
+black
+flake8
+
+# Optional: For enhanced functionality
+requests
+beautifulsoup4
